@@ -1,0 +1,17 @@
+site_name: Weather API Docs
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Authentication: authentication.md
+  - API Reference: api-reference.md
+  - API Explorer: swagger.md
+  - Current Weather: current-weather.md
+  - Forecast: forecast.md
+  - Errors: errors.md
